@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Mena Rizkalla</h1>
+<h3 align="center">A passionate Android developer </h3>
+
+
 🎓 I'm a computer and control systems engineering student at Mansoura University.
 
 🌱 I have been dealing with android development for over +3 years.
