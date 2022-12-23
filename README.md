@@ -8,6 +8,8 @@
 
 🤔 Looking for open source to contribute
 
+💻 I have used other languages previously like: C,Python,PHP and C#.
+
 📧 how to reach me: mena.rizkalla1@gmail.com
 
 
