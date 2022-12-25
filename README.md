@@ -8,7 +8,9 @@
 
 🤔 Looking for open source to contribute
 
-💻 I have used other languages previously like: C,Python,PHP and C#.
+💻 programming languages I have used: Java,kotlin,Python,PHP,C and C#
+
+🔭 I’m currently focusing on DSA
 
 📧 how to reach me: mena.rizkalla1@gmail.com
 
