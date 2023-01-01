@@ -8,7 +8,7 @@
 
 🤔 Looking for open source to contribute
 
-💻 programming languages I have used: Java,kotlin,Python,PHP,C and C#
+💻 Programming languages I have used: Java,kotlin,Python,PHP,C and C#
 
 🔭 I’m currently focusing on DSA
 
