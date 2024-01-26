@@ -23,3 +23,5 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
+
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mena-rizkalla&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="95%" alt="@mena's wakatime stats"/></a>
