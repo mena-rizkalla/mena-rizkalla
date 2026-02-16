@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
    Hi There 👋, I'm Mina Rizkalla
-  <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
 </h1>
 
 <p align="center">
