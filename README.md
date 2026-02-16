@@ -1,16 +1,23 @@
-<h1 align="center">Hi There 👋, I'm Mena Rizkalla</h1>
-<h3 align="center">A passionate Android developer </h3>
+<h1 align="center">
+  <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
+   Hi There 👋, I'm Mina Rizkalla
+  <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
+</h1>
 
+<p align="center">
+ <strong>Android & Kotlin Multiplatform Developer</strong>
+</p>
 
-🎓 I'm a computer and control systems engineering student at Mansoura University.
+### 📱 About Me
+* 🎓 Currently studying **Computer and Control Systems Engineering** at Mansoura University.
+* 🤖 **Android Developer** with 4+ years of experience building mobile applications.
+* 🛠 Specialized in **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**.
+* 🔭 Currently sharpening my skills in **Data Structures & Algorithms (DSA)**.
 
-🌱 I have been dealing with android development for over +4 years.
-
-🤔 Looking for open source to contribute
-
-💻 Programming languages I have used: Java,kotlin,Python,PHP,C and C#
-
-🔭 I’m currently focusing on DSA
+### 🛠 Tech Stack
+* **Languages:** Kotlin, Java, Python, C, C#, PHP
+* **Mobile Technologies:** Android SDK, Jetpack Compose, Kotlin Multiplatform
+* **Core CS:** Data Structures, Algorithms, Networking
 
 📧 how to reach me: mena.rizkalla1@gmail.com
 
